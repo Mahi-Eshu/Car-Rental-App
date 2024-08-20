@@ -1,1 +1,6 @@
 # Car-Rental-App
+
+1. ADD CAR
+2. RENT CAR
+3. RETURN CAR
+4. EXIT APP
